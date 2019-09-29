@@ -1,0 +1,23 @@
+.navbar-dark .navbar-nav .nav-link {
+  color: #fff;
+  font-size: 13px;
+}
+
+.product.dark a {
+  color: #fff;
+}
+
+.product-small h3 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.product-small h3 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.product-small.dark {
+  color: #fff;
+}
+
